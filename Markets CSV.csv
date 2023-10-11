@@ -1,0 +1,18 @@
+markets_code,markets_name,zone
+M001,"New Jersey",South
+M002,"New Jersey",Central
+M003,"New Jersey",North
+M004,NewYork,North
+M005,"England ",North
+M006,England,South
+M007,England,Central
+M008,"New York",North
+M009,"New York",North
+M010,Paris,South
+M011,Paris,Central
+M012,Paris,North
+M013,"New York",Central
+M014,"New York ",South
+M015,"New York",South
+M097,"New York",
+Mark999,Paris,
